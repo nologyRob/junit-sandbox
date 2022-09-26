@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aff0c51c-daab-44ab-a962-ee3d9ff53a88" name="Changes" comment="" />
+    <list default="true" id="aff0c51c-daab-44ab-a962-ee3d9ff53a88" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BankAccountTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +49,8 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BankAccountTest.getLastName">
-    <configuration name="BankAccountTest.deposit_ValidAmount_ReturnsUpdatedBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BankAccountTest.setFirstName_ValidInput_ReturnsFirstNameUpdated">
+    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit-Lesson-Sandbox" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +60,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.BankAccountTest" />
-      <option name="METHOD_NAME" value="deposit_ValidAmount_ReturnsUpdatedBalance" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BankAccountTest.setFirstName_ValidInput_ReturnsFirstNameUpdated" />
+        <item itemvalue="JUnit.BankAccountTest" />
         <item itemvalue="JUnit.BankAccountTest.getLastName" />
         <item itemvalue="JUnit.BankAccountTest.withdraw_ValidWithdrawal_ReturnsUpdatedBalance" />
-        <item itemvalue="JUnit.BankAccountTest.setFirstName_ValidInput_ReturnsFirstNameUpdated" />
         <item itemvalue="JUnit.BankAccountTest.withdraw_InvalidAmount_ReturnsIllegalExceptionError" />
-        <item itemvalue="JUnit.BankAccountTest.deposit_ValidAmount_ReturnsUpdatedBalance" />
       </list>
     </recent_temporary>
   </component>
